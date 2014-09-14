@@ -18,9 +18,9 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.jsystemtest.systemobjects</groupId>
-			<artifactId>cli</artifactId>
-			<version>6.1.00</version>
+			<groupId>io.appium</groupId>
+			<artifactId>java-client</artifactId>
+			<version>1.6.2</version>
 		</dependency>
 	</dependencies>
 	<build>

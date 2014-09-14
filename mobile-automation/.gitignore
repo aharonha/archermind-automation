@@ -1,0 +1,33 @@
+# generic files to ignore
+*.log
+*.tmp
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+[Tt]humbs.db
+
+#Eclipse files
+.settings
+.classpath
+.project
+
+#Java and Maven
+*.class
+target
+
+#android binaries
+bin
+gen
+
+#Special Cases
+!LoginActivity/libs
+!LoginActivity/.classpath
+!LoginActivity/.project
+!robotium-server/.project
+!robotium-server/.classpath
+!robotium-server/libs
+
+
+
